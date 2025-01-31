@@ -16,5 +16,6 @@
 	  <linkfile dest="setup-environment" src="setup-environment"/>
   </project>>
   <project remote="adigithub" revision="refs/tags/3.1.0-rel" name="lnxdsp-adi-security-meta" path="sources/meta-adi-security"/>
+  <project remote="adigithub" revision="release/yocto-3.1.2" name="adsp-ucsdk" path="sources/meta-adi-sc5xx-ucsdk/"/> 
 
 </manifest>
